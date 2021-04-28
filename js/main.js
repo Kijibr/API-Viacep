@@ -1,4 +1,4 @@
-//alert("Foi po!!")
+
 function consultaCep(){
 
     $(".barra-progresso").hide();
